@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você seria o Capitão da Grelha ou Vegano ?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Quais opções seriam ideais para o café da manhã ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Pão Integral com Geléia de Uva", "alias":"A"},
+        {"id": 2, "name":"Pão Francês com Ovo Frito", "alias":"B"},
+        {"id": 3, "name":"Aveia, banana e Mel", "alias":"A"},
+        {"id": 4, "name":"Pão com Mortadela", "alias":"B"},
+        {"id": 5, "name":"Uma maçã", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Quais opções seriam ideais para o almoço?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Um Big Mac", "alias":"B"},
+        {"id": 2, "name":"Lasanha de Beringela", "alias":"A"},
+        {"id": 3, "name":"Arroz, Feijão e Bife à Cavalo", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Quais opções seriam ideais para o jantar?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Hamburguer de fraldinha e queijo prato", "alias":"B"},
+        {"id": 2, "name":"Porção de Tofú com brócolis e Shoyu", "alias":"A"},
+        {"id": 3, "name":"Melão, Manga e Amoras", "alias":"A"},
+        {"id": 4, "name":"Combo de Pizza Cala-Mussa + Coca-Cola 2L", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual sua maior dúvida?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Esse Leite é realmente de soja?", "alias":"A"},
+        {"id": 2, "name":"Bem passado ou mal passado?", "alias":"B"}
       ]
     },
     {
       "id":5,
       "question": "Qual o seu apelido de super ser ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Horácio", "alias":"A"},
+        {"id": 2, "name":"Sócio do Açougue", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você provavelmente seria um bom Vegano!",
+    "B": "Você muito provavelmente já é o chefe da grelha! :D "
   }
 }
